@@ -2,6 +2,7 @@
 #include"process.h"
 
 
+//bug fix
 struct Process* SortedMerge(struct Process* a, struct Process* b,int sort);
 void FrontBackSplit(struct Process* source,
 					struct Process** frontRef, struct Process** backRef);
