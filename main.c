@@ -1,5 +1,4 @@
 //this is the main file
-//the successful implemetation of DSA project
 #include<stdio.h>
 #include<stdlib.h>
 #include <time.h>
