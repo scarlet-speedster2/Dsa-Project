@@ -3,7 +3,7 @@
 #include<string.h>
 #include"process.h"
 #include"queue.h"
-
+//this is
 int count(Queue q){
 	int c =0;
 	while(!q){
