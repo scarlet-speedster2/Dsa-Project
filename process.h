@@ -27,6 +27,7 @@ void remove1(Queue* q);
 void remove2(Queue* q,Queue* q1);
 void remove3(Queue* q,Queue* q2);
 //additional functions need to add
+//this is comment
 
 
 
